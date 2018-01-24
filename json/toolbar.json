@@ -1,0 +1,14 @@
+{
+  "title":"Toolbar",
+  "itemsCount":{
+    "cpu":"100",
+    "Used-Memory":"1000",
+    "Total-Memory":"2000"
+  },
+  "items":{
+    "CWD":"C:/Users/angeal185/",
+    "OS":"win-NT",
+    "NodeJs":"v8.8.1",
+    "NPM":"v5.4.2"
+  }
+}
